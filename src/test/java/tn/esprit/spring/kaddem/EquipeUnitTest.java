@@ -40,7 +40,7 @@ public class EquipeUnitTest {
     public void testAddEquipe() {
 
         Equipe equipe = new Equipe();
-        equipe.setNomEquipe("Test Team");
+        equipe.setNomEquipe("Test Teamm");
         equipe.setNiveau(Niveau.JUNIOR);
 
         Equipe savedEquipe = equipeService.addEquipe(equipe);

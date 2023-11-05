@@ -60,6 +60,7 @@
         </repository>
     </distributionManagement>
     <build>
+        
             <finalName>5TWIN5-G4-Kaddem</finalName>
 
         <plugins>
